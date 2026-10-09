@@ -1,0 +1,17 @@
+{
+  "project": "thor-energy",
+  "budget_limit_usd": 5.0,
+  "spent_usd": 0.05,
+  "circuit_breaker": {
+    "max_retries_per_error": 3,
+    "max_tool_steps_per_subtask": 10,
+    "current_error_retries": 0
+  },
+  "roles": {
+    "planner": "CEO / Lead Architect",
+    "coder": "Senior Developer",
+    "tester": "QA Engineer",
+    "reviewer": "Governance Reviewer"
+  },
+  "created_at": "2026-10-09T17:31:00+07:00"
+}
